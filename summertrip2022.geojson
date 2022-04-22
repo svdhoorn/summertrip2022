@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "summertrip2022",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 1501794.387050861958414, 7526598.629938030615449 ] } },
+{ "type": "Feature", "properties": { }, "geometry": { "type": "Point", "coordinates": [ 1549386.462696840055287, 7620020.111761617474258 ] } }
+]
+}
